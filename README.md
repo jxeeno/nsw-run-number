@@ -2,6 +2,11 @@
 
 This library decodes a 4 digit train run number and provides known attributes about the service based on the rules described in Transport for NSW's Train Operating Conditions (TOC) Manual - General Instructions.
 
+```bash
+npm i nsw-run-number -- install via npm
+yarn add nsw-run-number -- or using yarn
+```
+
 ```js
 const nswRunNumberParser = require("nsw-run-number");
 nswRunNumberParser("2BM6");
