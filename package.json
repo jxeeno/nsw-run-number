@@ -1,6 +1,6 @@
 {
   "name": "nsw-run-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Decodes a 4 NSW 4 digit train run number based on the TOC manual",
   "main": "index.js",
   "author": "Kenneth Tsang <me@jxeeno.com>",
