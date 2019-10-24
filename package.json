@@ -4,5 +4,8 @@
   "description": "Decodes a 4 NSW 4 digit train run number based on the TOC manual",
   "main": "index.js",
   "author": "Kenneth Tsang <me@jxeeno.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/jxeeno/nsw-run-number"
+  }
 }
